@@ -1,0 +1,29 @@
+body {
+	background-color: orange;
+	
+	font-family: "Helvetica", "Arial", sans-serif;
+	font-size: 3.8em;
+}
+
+a {
+	text-decoration: line-through;
+	color: green;
+	font-weight: bold;
+	font-style: italic;
+}
+
+a:hover {
+	color: white;
+}
+
+#kevin {
+	color: yellow;
+}
+
+.bordered {
+	border-style: dashed;
+	border-color: red;
+	border-width: 8pt;
+	
+	padding: 1em;
+}
